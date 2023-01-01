@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sfekrat (Sayed Farzad Fekrat).
-- 👀 I’m interested in learning everything about computers.
+- 👀 I’m interested in becoming a full stack developer.
 - 🌱 I’m currently learning Golang, concurrent and distributed systems.
 - 📫 How to reach me: sfekrat@gmu.edu
 
